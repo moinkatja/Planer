@@ -1,2 +1,2 @@
 # Planer
-A Bootstrap Project, Udemy Course by Colt Steele
+A Bootstrap Project, based on the Udemy Course by Colt Steele
