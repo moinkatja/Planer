@@ -2,17 +2,17 @@
 
 body {
     font-family: 'Nunito', sans-serif;
-    background-color: #f7e4e8;
+    background-color: #f7c0cb;
 }
 
 .textClass h2 {
-    color: rgb(202, 214, 90);
+    color: rgb(246, 252, 196);
     font-weight: 100;
     font-size: 2.5rem;
 }
 
 .textClass p {
-    color: #f498b8;
+    color: #ffffff;
     font-weight: 100;
     font-size: 1.125rem;
     line-height: 2;
@@ -33,17 +33,17 @@ body {
 }
 
 #mainNavbar .nav-link:hover {
-    color:rgb(202, 214, 90);
+    color: rgb(246, 252, 196);
 }
 
 #mainNavbar .navbar-brand {
     font-size: 1.5rem;
-    color:rgb(202, 214, 90);
+    color: rgb(246, 252, 196);
     font-weight: 100;
 }
 
 #headingGroup span {
-    color:rgb(202, 214, 90);
+    color: rgb(246, 252, 196);
 }
 
 #headingGroup h1 {
